@@ -1,0 +1,5 @@
+name: FantasyKitPvP
+version: @version@
+main: fantasynetwork.fantasykitpvp.FantasyKitPvP
+api-version: 1.13
+authors: [Yspatt, Mboscolo]
